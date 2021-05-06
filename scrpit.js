@@ -1,0 +1,14 @@
+firstname="eashan";
+lastname="sareen";
+firstlast=firstname.concat(lastname);
+console.log(firstlast);
+n1=15;
+n2=5;
+add=n1+n2;
+console.log(add);
+sub=n1-n2;
+console.log(sub);
+mutiple=n1*n2;
+console.log(mutiple);
+divison=n1/n2;
+console.log(divison);
